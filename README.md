@@ -1,5 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mukesh%20Ram%20Yenduri&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Developer%20&descSize=18&descAlignY=55&textBg=false"/>
-
+<p align="center">
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8B0000,100:FF0000&text=Mukesh%20Ram%20Yenduri&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&section=header"
+  />
+</p>
+ <p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=AI+%26+ML+Engineer;Data+Science+Undergraduate;Building+Scalable+AI+Systems;Open+Source+Enthusiast;Always+Learning+New+Technologies" 
+    alt="Typing SVG" 
+  />
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
@@ -15,6 +25,16 @@
 - Workflow Automation & Agentic AI
 - NLP, LLM Integration & Scalable AI Systems
 
+## 💻 LEETCODE PROFILE
+
+<p align="center">
+  🚀 Solved 200+ LeetCode problems with focus on Data Structures & Algorithms WHILE MAINTAINING CONSISTENCY AND STREAK
+  <br><br>
+  <br><br>
+  <a href="https://leetcode.com/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -26,6 +46,21 @@
   <img src="https://trophy.ryglcloud.net/?username=ymukeshram&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mukesh Ram Yenduri's GitHub Trophies" />
 </p>
 
+## 🏅 GitHub Achievements
+
+<p align="center">
+   Showcasing milestones earned through collaboration, consistency, and active development on GitHub.
+</p>
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="110" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="110" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="110" />
+</p>
+
+<p align="center">
+ 
 
 ## 🚀 TECH ARSENAL
 

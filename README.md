@@ -31,7 +31,7 @@
   🚀 Solved 200+ LeetCode problems with focus on Data Structures & Algorithms WHILE MAINTAINING CONSISTENCY AND STREAK
   <br><br>
   <br><br>
-  <a href="https://leetcode.com/YOUR_USERNAME/">
+  <a href="https://leetcode.com/u/GH2023000956/">
     <img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>

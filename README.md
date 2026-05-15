@@ -28,7 +28,7 @@
 ## 💻 LEETCODE PROFILE
 
 <p align="center">
-  🚀 Solved 200+ LeetCode problems with focus on Data Structures & Algorithms WHILE MAINTAINING CONSISTENCY AND STREAK
+    Solved 200+ LeetCode problems with focus on Data Structures & Algorithms WHILE MAINTAINING CONSISTENCY AND STREAK
   <br><br>
   <br><br>
   <a href="https://leetcode.com/u/GH2023000956/">

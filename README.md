@@ -20,7 +20,7 @@
 - Passionate about developing scalable AI systems using Python, Machine Learning, APIs, and modern development tools.
 
 
-## 🧠 My Focus Areas
+## 🧠 My Focus Areas.
 - Artificial Intelligence & Machine Learning
 - Workflow Automation & Agentic AI
 - NLP, LLM Integration & Scalable AI Systems

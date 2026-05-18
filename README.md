@@ -99,7 +99,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mukesh-yenduri/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Mukesh Ram Yenduri's LinkedIn"/></a>&nbsp;
   <a href="mailto:ymukeshram@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Mukesh Ram Yenduri's Email"/></a>&nbsp;
-  <a href="m"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>&nbsp;
+  <a href="https://private-portfolio-seven.vercel.app/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>&nbsp;
   <a href="https://wa.me/6305966488"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
